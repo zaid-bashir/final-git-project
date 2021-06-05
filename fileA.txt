@@ -1,2 +1,2 @@
-featue 1 with 2 bugs
+featue 1 with 1 bug
 feature 2 wip
