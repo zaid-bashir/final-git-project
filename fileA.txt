@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 featue 1 
 feature 2 wip
+=======
+>>>>>>> f31d20a (fix feature 1 bug Y)
